@@ -33,22 +33,6 @@ I don't want to just write code that works — I want to understand **how to bui
 
 ---
 
-## 🎯 Goals
-
-- [x] Learn Python fundamentals
-- [x] Learn OOP
-- [x] Start developing Telegram bots
-- [x] Learn SQL and databases
-- [x] Get familiar with Docker
-- [x] Start learning testing
-- [ ] Improve my backend development skills
-- [ ] Build larger and more complex projects
-- [ ] Improve application architecture
-- [ ] Learn CI/CD
-- [ ] Build a strong developer portfolio
-
----
-
 ## 🧩 My Development Philosophy
 
 ```python
